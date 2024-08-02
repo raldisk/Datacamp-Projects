@@ -1,0 +1,2 @@
+Project Description
+The Rebrickable dataset includes data on every LEGO set that has ever been sold; the names of the sets, what bricks they contain, etc. It might be small bricks, but this is big data! In this project, you will use this dataset together with the pandas library to dig into the history of Lego's licensed sets, including uncovering the percentage of all licensed sets that are Star Wars themed.

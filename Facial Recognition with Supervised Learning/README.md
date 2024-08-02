@@ -1,0 +1,2 @@
+Project Description
+Tackle the challenge of distinguishing images of Arnold Schwarzenegger from others using a dataset of faces and gain insights into the principles of facial recognition technology. This project guides you through building a machine learning pipeline and optimizing and evaluating models in Python and scikit-learn.
